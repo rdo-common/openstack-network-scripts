@@ -4,7 +4,7 @@
 
 Name:             openstack-network-scripts
 Summary:          Legacy scripts for manipulating of network devices
-Version:          10.09
+Version:          10.11.1
 Release:          1%{?dist}
 
 License:          GPLv2
