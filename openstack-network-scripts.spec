@@ -74,7 +74,7 @@ BuildRequires:    systemd
 
 Name:             openstack-network-scripts
 Summary:          Legacy scripts for manipulating of network devices
-Requires:         %{upstream_name}%{?_isa} >= %{version}-%{release}
+Requires:         %{upstream_name}%{?_isa} >= %{version}
 
 %shared_requirements
 
